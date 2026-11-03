@@ -169,3 +169,6 @@ wandb
 CLAUDE.md
 .claude
 uv.lock
+
+# Study datasets (re-creatable with study/collect_solar_weather.py)
+study/data/
